@@ -6,3 +6,4 @@
 * [Data.gov](https://www.data.gov/)
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [Kiva](http://build.kiva.org/docs/data/snapshots)
