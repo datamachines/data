@@ -24,6 +24,13 @@
 * [Facebook](https://developers.facebook.com/docs/graph-api)
 * [Instagram](https://www.instagram.com/developer/)
 
+## Cyber
+* [Internet Census 2012](http://internetcensus2012.bitbucket.org/paper.html)
+
+## Health
+* [Medicare](https://www.cms.gov/openpayments/explore-the-data/dataset-downloads.html)
+* [NCBI Genome](http://www.ncbi.nlm.nih.gov/genome/)
+
 ## Machine Learning Specific
 * [Kaggle](https://www.kaggle.com/)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
