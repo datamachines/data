@@ -14,8 +14,8 @@
 
 ## APIs
 * [Twitter](https://dev.twitter.com/overview/documentation)
-** [Tweepy](http://www.tweepy.org/)
-** [Twython](https://github.com/ryanmcgrath/twython)
+  * [Tweepy](http://www.tweepy.org/)
+  * [Twython](https://github.com/ryanmcgrath/twython)
 * [Github](https://developer.github.com/v3/)
 * [Reddit](https://www.reddit.com/dev/api)
 * [Facebook](https://developers.facebook.com/docs/graph-api)
