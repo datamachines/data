@@ -10,6 +10,9 @@
 ## Finance
 * [NxCore](http://www.nanex.net/nxcore.html)
 * [Kiva](http://build.kiva.org/docs/data/snapshots)
+* [Bitcoin](https://bitcoin.org/en/download)
+  * [Blockparser](https://github.com/znort987/blockparser)
+  * [Abe](https://github.com/bitcoin-abe/bitcoin-abe)
 
 ## Event
 * [GDELT](http://gdeltproject.org/)
