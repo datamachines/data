@@ -31,6 +31,7 @@
 * [Defcon CTF Pcaps](https://www.defcon.org/html/links/dc-ctf.html)
 * [Netresec Pcaps List](http://www.netresec.com/?page=PcapFiles)
 * [Simpleweb Traces](http://www.simpleweb.org/wiki/Traces)
+* [CTU-13 Botnet](http://mcfp.weebly.com/the-ctu-13-dataset-a-labeled-dataset-with-botnet-normal-and-background-traffic.html)
 
 ## Health
 * [Medicare](https://www.cms.gov/openpayments/explore-the-data/dataset-downloads.html)
