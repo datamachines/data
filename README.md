@@ -9,10 +9,13 @@
 
 ## Finance
 * [NxCore](http://www.nanex.net/nxcore.html)
+* [Quandl](https://www.quandl.com/)
+* [Worldbank](http://data.worldbank.org/)
 * [Kiva](http://build.kiva.org/docs/data/snapshots)
 * [Bitcoin](https://bitcoin.org/en/download)
   * [Blockparser](https://github.com/znort987/blockparser)
   * [Abe](https://github.com/bitcoin-abe/bitcoin-abe)
+
 
 ### Crypto Exchanges
 * [Kraken API](https://www.kraken.com/en-us/help/api)
@@ -21,6 +24,7 @@
 ## Event
 * [GDELT](http://gdeltproject.org/)
 * [AP Breaking News API](https://developer.ap.org/ap-breaking-news-api)
+* [Google Trends](https://www.google.com/trends/)
 
 ## Social Media
 * [Twitter](https://dev.twitter.com/overview/documentation)
@@ -61,3 +65,5 @@
 * [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 * [Computer Vision Online](http://www.computervisiononline.com/datasets)
 
+## APIs
+* [Clarif.ai](http://clarif.ai/api)
