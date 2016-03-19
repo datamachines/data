@@ -1,6 +1,7 @@
 # Data
 
 * [The Dataverse Project](http://dataverse.org)
+* [Academic Torrents](http://academictorrents.com/)
 * [Open Science Framework](https://osf.io/)
 * [Data.gov](https://www.data.gov/)
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
