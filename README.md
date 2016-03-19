@@ -12,7 +12,11 @@
 * [NxCore](http://www.nanex.net/nxcore.html)
 * [Kiva](http://build.kiva.org/docs/data/snapshots)
 
-## APIs
+## Event
+* [GDELT](http://gdeltproject.org/)
+* [AP Breaking News API](https://developer.ap.org/ap-breaking-news-api)
+
+## Social Media
 * [Twitter](https://dev.twitter.com/overview/documentation)
   * [Tweepy](http://www.tweepy.org/)
   * [Twython](https://github.com/ryanmcgrath/twython)
