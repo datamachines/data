@@ -14,6 +14,10 @@
   * [Blockparser](https://github.com/znort987/blockparser)
   * [Abe](https://github.com/bitcoin-abe/bitcoin-abe)
 
+### Crypto Exchanges
+* [Kraken API](https://www.kraken.com/en-us/help/api)
+* [Cryptsy API](https://www.cryptsy.com/pages/api)
+
 ## Event
 * [GDELT](http://gdeltproject.org/)
 * [AP Breaking News API](https://developer.ap.org/ap-breaking-news-api)
