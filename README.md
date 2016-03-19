@@ -24,6 +24,8 @@
   * [Twython](https://github.com/ryanmcgrath/twython)
 * [Github](https://developer.github.com/v3/)
 * [Reddit](https://www.reddit.com/dev/api)
+  * [Stuck_in_the_matrix post](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
+  * [Internet Archive Reddit Corpus](https://archive.org/details/2015_reddit_comments_corpus)
 * [Facebook](https://developers.facebook.com/docs/graph-api)
 * [Instagram](https://www.instagram.com/developer/)
 * [GNIP](https://gnip.com/)
