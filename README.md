@@ -11,3 +11,12 @@
 ## Finance
 * [NxCore](http://www.nanex.net/nxcore.html)
 * [Kiva](http://build.kiva.org/docs/data/snapshots)
+
+## APIs
+* [Twitter](https://dev.twitter.com/overview/documentation)
+** [Tweepy](http://www.tweepy.org/)
+** [Twython](https://github.com/ryanmcgrath/twython)
+* [Github](https://developer.github.com/v3/)
+* [Reddit](https://www.reddit.com/dev/api)
+* [Facebook](https://developers.facebook.com/docs/graph-api)
+* [Instagram](https://www.instagram.com/developer/)
