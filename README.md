@@ -7,6 +7,7 @@
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 * [NOAA](http://www.ncdc.noaa.gov/data-access/quick-links)
+* [Google Takeout](https://takeout.google.com/settings/takeout)
 
 ## Finance
 * [NxCore](http://www.nanex.net/nxcore.html)
