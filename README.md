@@ -43,3 +43,8 @@
 ### Machine Translation 
 * [Opus Open Parallel Corpus](http://opus.lingfil.uu.se/)
 * [UN Corpus](http://www.uncorpora.org/)
+
+### Computer Vision
+* [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
+* [Computer Vision Online](http://www.computervisiononline.com/datasets)
+
