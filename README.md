@@ -3,7 +3,6 @@
 ## Lists or Repositories
 * [The Dataverse Project](http://dataverse.org)
 * [Open Science Framework](https://osf.io/)
-* [Kaggle](https://www.kaggle.com/)
 * [Data.gov](https://www.data.gov/)
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -26,6 +25,7 @@
 * [Instagram](https://www.instagram.com/developer/)
 
 ## Machine Learning Specific
+* [Kaggle](https://www.kaggle.com/)
 * [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 * [mldata.org](http://mldata.org/)
 * [Google Ngram](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
