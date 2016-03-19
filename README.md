@@ -65,5 +65,6 @@
 * [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 * [Computer Vision Online](http://www.computervisiononline.com/datasets)
 
-## APIs
+## APIs (non-producing)
 * [Clarif.ai](http://clarif.ai/api)
+* [IBM Watson API](https://console.ng.bluemix.net/docs/services/watson.html)
