@@ -24,3 +24,13 @@
 * [Reddit](https://www.reddit.com/dev/api)
 * [Facebook](https://developers.facebook.com/docs/graph-api)
 * [Instagram](https://www.instagram.com/developer/)
+
+## Machine Learning Specific
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+* [mldata.org](http://mldata.org/)
+* [Google Ngram](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
+* [NIST Trec Data](http://trec.nist.gov/data.html)
+
+### Machine Translation 
+* [Opus Open Parallel Corpus](http://opus.lingfil.uu.se/)
+* [UN Corpus](http://www.uncorpora.org/)
