@@ -23,6 +23,7 @@
 * [Reddit](https://www.reddit.com/dev/api)
 * [Facebook](https://developers.facebook.com/docs/graph-api)
 * [Instagram](https://www.instagram.com/developer/)
+* [GNIP](https://gnip.com/)
 
 ## Cyber
 * [Internet Census 2012](http://internetcensus2012.bitbucket.org/paper.html)
