@@ -86,6 +86,7 @@
 
 ## Organizations
 * [Harvard Institute for Quantitative Social Science](http://www.iq.harvard.edu/)
+* [Center for Open Science](https://cos.io/)
 * [UC Berkeley DLab](http://dlab.berkeley.edu/)
 * [UC Berkeley AMP Lab](https://amplab.cs.berkeley.edu/)
 
