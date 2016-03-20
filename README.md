@@ -90,4 +90,4 @@
 * [UC Berkeley AMP Lab](https://amplab.cs.berkeley.edu/)
 
 ---
-Submit new or interesting data links to feedback@datamachines.io
+Submit new or interesting data links via pull request or email to feedback@datamachines.io
