@@ -4,6 +4,7 @@
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 * [Google Takeout](https://takeout.google.com/settings/takeout)
+* [UFO Reports](http://www.nuforc.org/webreports.html)
 
 ## Academic
 * [The Dataverse Project](http://dataverse.org)
