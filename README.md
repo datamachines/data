@@ -67,11 +67,11 @@
 * [NIST Trec Data](http://trec.nist.gov/data.html)
 * [Netflix Prize](http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a)
 
-### Machine Translation 
+#### Machine Translation 
 * [Opus Open Parallel Corpus](http://opus.lingfil.uu.se/)
 * [UN Corpus](http://www.uncorpora.org/)
 
-### Computer Vision
+#### Computer Vision
 * [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 * [Computer Vision Online](http://www.computervisiononline.com/datasets)
 * [Berkeley Segmentation](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
