@@ -20,7 +20,7 @@
   * [Abe](https://github.com/bitcoin-abe/bitcoin-abe)
 
 
-### Crypto Exchanges
+#### Crypto Exchanges
 * [Kraken API](https://www.kraken.com/en-us/help/api)
 * [Cryptsy API](https://www.cryptsy.com/pages/api)
 
