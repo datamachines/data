@@ -52,8 +52,11 @@
 ## Health
 * [Medicare](https://www.cms.gov/openpayments/explore-the-data/dataset-downloads.html)
 * [NCBI Genome](http://www.ncbi.nlm.nih.gov/genome/)
+* [Open Payments Data](https://openpaymentsdata.cms.gov/)
 * [Healthdata.gov](http://www.healthdata.gov/dataset)
 * [Vanderbilt University Department of Biostatistics](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets)
+* [Cancer Genome Atlas](https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp)
+* [WHO](http://www.who.int/gho/en/)
 
 ## Weather and Climate
 * [Berkeley Earth](http://berkeleyearth.org/data/)
