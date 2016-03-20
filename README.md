@@ -84,7 +84,8 @@
 
 ## Organizations
 * [Harvard Institute for Quantitative Social Science](http://www.iq.harvard.edu/)
-
+* [UC Berkeley DLab](http://dlab.berkeley.edu/)
+* [UC Berkeley AMP Lab](https://amplab.cs.berkeley.edu/)
 
 ---
 Submit new or interesting data links to feedback@datamachines.io
