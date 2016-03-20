@@ -3,7 +3,6 @@
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
-* [NOAA](http://www.ncdc.noaa.gov/data-access/quick-links)
 * [Google Takeout](https://takeout.google.com/settings/takeout)
 
 ## Academic
@@ -53,6 +52,10 @@
 ## Health
 * [Medicare](https://www.cms.gov/openpayments/explore-the-data/dataset-downloads.html)
 * [NCBI Genome](http://www.ncbi.nlm.nih.gov/genome/)
+
+## Weather and Climate
+* [Berkeley Earth](http://berkeleyearth.org/data/)
+* [NOAA](http://www.ncdc.noaa.gov/data-access/quick-links)
 
 ## Machine Learning Specific
 * [Kaggle](https://www.kaggle.com/)
