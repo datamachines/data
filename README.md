@@ -2,9 +2,9 @@
 
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
-* [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+
+## Personal
 * [Google Takeout](https://takeout.google.com/settings/takeout)
-* [UFO Reports](http://www.nuforc.org/webreports.html)
 
 ## Academic
 * [The Dataverse Project](http://dataverse.org)
@@ -83,6 +83,10 @@
 ## Government Data
 * [Data.gov](https://www.data.gov/)
 * [City of Berkeley Open Data](https://data.cityofberkeley.info/)
+
+## Other
+* [UFO Reports](http://www.nuforc.org/webreports.html)
+* [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 
 ## APIs (non-producing)
 * [Clarif.ai](http://clarif.ai/api)
