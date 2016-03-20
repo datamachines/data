@@ -1,14 +1,15 @@
 # Data
 
-* [The Dataverse Project](http://dataverse.org)
-* [Academic Torrents](http://academictorrents.com/)
-* [Open Science Framework](https://osf.io/)
-* [Data.gov](https://www.data.gov/)
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 * [NOAA](http://www.ncdc.noaa.gov/data-access/quick-links)
 * [Google Takeout](https://takeout.google.com/settings/takeout)
+
+## Academic
+* [The Dataverse Project](http://dataverse.org)
+* [Academic Torrents](http://academictorrents.com/)
+* [Open Science Framework](https://osf.io/)
 
 ## Finance
 * [NxCore](http://www.nanex.net/nxcore.html)
@@ -68,12 +69,18 @@
 ### Computer Vision
 * [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 * [Computer Vision Online](http://www.computervisiononline.com/datasets)
+* [Berkeley Segmentation](https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+
+## Government Data
+* [Data.gov](https://www.data.gov/)
+* [City of Berkeley Open Data](https://data.cityofberkeley.info/)
 
 ## APIs (non-producing)
 * [Clarif.ai](http://clarif.ai/api)
 * [IBM Watson API](https://console.ng.bluemix.net/docs/services/watson.html)
-  
-  
-  
+
+## Organizations
+* 
+* [Harvard Institute for Quantitative Social Science](http://www.iq.harvard.edu/)
 ---
 Submit new or interesting data links to feedback@datamachines.io
