@@ -83,7 +83,8 @@
 * [IBM Watson API](https://console.ng.bluemix.net/docs/services/watson.html)
 
 ## Organizations
-* 
 * [Harvard Institute for Quantitative Social Science](http://www.iq.harvard.edu/)
+
+
 ---
 Submit new or interesting data links to feedback@datamachines.io
