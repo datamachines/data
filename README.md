@@ -52,6 +52,7 @@
 ## Health
 * [Medicare](https://www.cms.gov/openpayments/explore-the-data/dataset-downloads.html)
 * [NCBI Genome](http://www.ncbi.nlm.nih.gov/genome/)
+* [Healthdata.gov](http://www.healthdata.gov/dataset)
 
 ## Weather and Climate
 * [Berkeley Earth](http://berkeleyearth.org/data/)
