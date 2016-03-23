@@ -87,6 +87,7 @@
 ## Other
 * [UFO Reports](http://www.nuforc.org/webreports.html)
 * [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+* [Uber TLC FOIL](https://github.com/fivethirtyeight/uber-tlc-foil-response)
 
 ## APIs (non-producing)
 * [Clarif.ai](http://clarif.ai/api)
