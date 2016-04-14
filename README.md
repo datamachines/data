@@ -60,6 +60,7 @@
 * [Cancer Genome Atlas](https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp)
 * [cBioPortal Cancer Genomics Data](http://www.cbioportal.org/)
 * [WHO](http://www.who.int/gho/en/)
+* [List of biological databases](https://en.wikipedia.org/wiki/List_of_biological_databases)
 
 ## Weather and Climate
 * [Berkeley Earth](http://berkeleyearth.org/data/)
