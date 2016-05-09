@@ -26,6 +26,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [Bitcoin](https://bitcoin.org/en/download)
   * [Blockparser](https://github.com/znort987/blockparser)
   * [Abe](https://github.com/bitcoin-abe/bitcoin-abe)
+* [Black-market archives](http://www.gwern.net/Black-market%20archives)
 
 
 #### Crypto Exchanges
