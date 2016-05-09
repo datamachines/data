@@ -18,7 +18,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [Academic Torrents](http://academictorrents.com/)
 * [Open Science Framework](https://osf.io/)
 
-## Finance
+## Financial
 * [NxCore](http://www.nanex.net/nxcore.html)
 * [Quandl](https://www.quandl.com/)
 * [Worldbank](http://data.worldbank.org/)
