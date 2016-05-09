@@ -7,7 +7,6 @@ This page contains links to interesting open data or lists of interesting open d
 * [Google Public Data Directory](http://www.google.com/publicdata/directory)
 * [Quora large public datasets](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [DataPortals.org](http://dataportals.org/)
-* [Open Science Data Cloud](https://www.opensciencedatacloud.org/publicdata/)
 * [Inside-r.org](http://www.inside-r.org/howto/finding-data-internet)
 * [Open Access Data simmons.edu](http://oad.simmons.edu/oadwiki/Data_repositories)
 
@@ -18,6 +17,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [The Dataverse Project](http://dataverse.org)
 * [Academic Torrents](http://academictorrents.com/)
 * [Open Science Framework](https://osf.io/)
+* [Open Science Data Cloud](https://www.opensciencedatacloud.org/publicdata/)
 
 ## Financial
 * [NxCore](http://www.nanex.net/nxcore.html)
@@ -95,6 +95,7 @@ This page contains links to interesting open data or lists of interesting open d
 ## Government Data
 * [Data.gov](https://www.data.gov/)
 * [City of Berkeley Open Data](https://data.cityofberkeley.info/)
+* [courts.gov](https://bulk.resource.org/courts.gov/)
 
 ## Other
 * [UFO Reports](http://www.nuforc.org/webreports.html)
