@@ -3,6 +3,7 @@
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Google Public Data Directory](http://www.google.com/publicdata/directory)
+* [Quora large public datasets](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
 ## Personal
 * [Google Takeout](https://takeout.google.com/settings/takeout)
