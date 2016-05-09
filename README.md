@@ -10,8 +10,9 @@ This page contains links to interesting open data or lists of interesting open d
 * [Inside-r.org](http://www.inside-r.org/howto/finding-data-internet)
 * [Open Access Data simmons.edu](http://oad.simmons.edu/oadwiki/Data_repositories)
 
-## Personal
+## Personal (about you)
 * [Google Takeout](https://takeout.google.com/settings/takeout)
+* [Green Button Energy Use Data](http://www.greenbuttondata.org/)
 
 ## Academic
 * [The Dataverse Project](http://dataverse.org)
