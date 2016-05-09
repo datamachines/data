@@ -96,6 +96,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [Data.gov](https://www.data.gov/)
 * [City of Berkeley Open Data](https://data.cityofberkeley.info/)
 * [courts.gov](https://bulk.resource.org/courts.gov/)
+* [Google Public Transit Feeds](https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki)
 
 ## Other
 * [UFO Reports](http://www.nuforc.org/webreports.html)
