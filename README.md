@@ -101,6 +101,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [UFO Reports](http://www.nuforc.org/webreports.html)
 * [NYC Taxi](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 * [Uber TLC FOIL](https://github.com/fivethirtyeight/uber-tlc-foil-response)
+* [Microsoft Research GeoLife GPS](http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/)
 
 ## APIs (non-producing)
 * [Clarif.ai](http://clarif.ai/api)
