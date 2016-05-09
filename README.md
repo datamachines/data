@@ -65,6 +65,7 @@
 ## Weather and Climate
 * [Berkeley Earth](http://berkeleyearth.org/data/)
 * [NOAA](http://www.ncdc.noaa.gov/data-access/quick-links)
+* [NASA Earth Exchange (NEX)](http://aws.amazon.com/blogs/aws/process-earth-science-data-on-aws-with-nasa-nex/)
 
 ## Machine Learning Specific
 * [Kaggle](https://www.kaggle.com/)
