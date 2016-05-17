@@ -6,7 +6,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Google Public Data Directory](http://www.google.com/publicdata/directory)
 * [Quora large public datasets](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
-* [DataPortals.org](http://dataportals.org/)
+* [DataPortals.org datacatalogs.org](http://dataportals.org/)
 * [Inside-r.org](http://www.inside-r.org/howto/finding-data-internet)
 * [Open Access Data simmons.edu](http://oad.simmons.edu/oadwiki/Data_repositories)
 
@@ -70,6 +70,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [cBioPortal Cancer Genomics Data](http://www.cbioportal.org/)
 * [WHO](http://www.who.int/gho/en/)
 * [List of biological databases](https://en.wikipedia.org/wiki/List_of_biological_databases)
+* [Broad Institute Cancer Datasets](http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 
 ## Weather and Climate
 * [Berkeley Earth](http://berkeleyearth.org/data/)
@@ -98,6 +99,10 @@ This page contains links to interesting open data or lists of interesting open d
 * [City of Berkeley Open Data](https://data.cityofberkeley.info/)
 * [courts.gov](https://bulk.resource.org/courts.gov/)
 * [Google Public Transit Feeds](https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki)
+* [European Union Data](http://open-data.europa.eu/en/data/)
+* [data.gov.uk](https://data.gov.uk/)
+* [open.canada.ca](http://open.canada.ca/en)
+
 
 ## Other
 * [UFO Reports](http://www.nuforc.org/webreports.html)
@@ -114,6 +119,10 @@ This page contains links to interesting open data or lists of interesting open d
 * [Center for Open Science](https://cos.io/)
 * [UC Berkeley DLab](http://dlab.berkeley.edu/)
 * [UC Berkeley AMP Lab](https://amplab.cs.berkeley.edu/)
+
+## Knowledge Graph
+* [dbpedia](http://wiki.dbpedia.org/)
+
 
 ---
 Submit new or interesting data links via pull request or email to feedback@datamachines.io
