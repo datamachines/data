@@ -19,6 +19,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [Academic Torrents](http://academictorrents.com/)
 * [Open Science Framework](https://osf.io/)
 * [Open Science Data Cloud](https://www.opensciencedatacloud.org/publicdata/)
+* [Nature.com Scientific Data](http://www.nature.com/sdata/)
 
 ## Financial
 * [NxCore](http://www.nanex.net/nxcore.html)
