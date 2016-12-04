@@ -15,7 +15,8 @@ This page contains links to interesting open data or lists of interesting open d
 * [Green Button Energy Use Data](http://www.greenbuttondata.org/)
 
 ## Academic
-* [The Dataverse Project](http://dataverse.org)
+* [The Dataverse Project](http://dataverse.org)  
+* [Dryad](http://datadryad.org/)  
 * [Academic Torrents](http://academictorrents.com/)
 * [Open Science Framework](https://osf.io/)
 * [Open Science Data Cloud](https://www.opensciencedatacloud.org/publicdata/)
