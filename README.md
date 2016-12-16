@@ -5,6 +5,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [Amazon Public Data Sets](https://aws.amazon.com/public-data-sets/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Google Public Data Directory](http://www.google.com/publicdata/directory)
+* [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data)
 * [Quora large public datasets](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 * [DataPortals.org datacatalogs.org](http://dataportals.org/)
 * [Inside-r.org](http://www.inside-r.org/howto/finding-data-internet)
