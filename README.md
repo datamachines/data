@@ -106,7 +106,8 @@ This page contains links to interesting open data or lists of interesting open d
 * [Google Public Transit Feeds](https://code.google.com/archive/p/googletransitdatafeed/wikis/PublicFeeds.wiki)
 * [European Union Data](http://open-data.europa.eu/en/data/)
 * [data.gov.uk](https://data.gov.uk/)
-* [open.canada.ca](http://open.canada.ca/en)
+* [open.canada.ca](http://open.canada.ca/en)  
+* [Homeland Infrastructure Foundation Data](https://hifld-dhs-gii.opendata.arcgis.com/)  
 
 
 ## Other
