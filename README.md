@@ -88,7 +88,8 @@ This page contains links to interesting open data or lists of interesting open d
 * [Google Ngram](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html)
 * [NIST Trec Data](http://trec.nist.gov/data.html)
 * [Netflix Prize](http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a)  
-* [Google Youtube Dataset](https://research.google.com/youtube8m/)  
+* [Google Youtube Dataset](https://research.google.com/youtube8m/)   
+* [Standford Question Answer Dataset](https://rajpurkar.github.io/SQuAD-explorer/)   
 
 #### Machine Translation 
 * [Opus Open Parallel Corpus](http://opus.lingfil.uu.se/)
