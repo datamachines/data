@@ -33,11 +33,10 @@ This page contains links to interesting open data or lists of interesting open d
   * [Blockparser](https://github.com/znort987/blockparser)
   * [Abe](https://github.com/bitcoin-abe/bitcoin-abe)
 * [Black-market archives](http://www.gwern.net/Black-market%20archives)
-
+* [Open Corporates API](https://api.opencorporates.com/)
 
 #### Crypto Exchanges
 * [Kraken API](https://www.kraken.com/en-us/help/api)
-* [Cryptsy API](https://www.cryptsy.com/pages/api)
 
 ## Event
 * [GDELT](http://gdeltproject.org/)
@@ -112,6 +111,8 @@ This page contains links to interesting open data or lists of interesting open d
 * [data.gov.uk](https://data.gov.uk/)
 * [open.canada.ca](http://open.canada.ca/en)  
 * [Homeland Infrastructure Foundation Data](https://hifld-dhs-gii.opendata.arcgis.com/)  
+* [China Vitae](http://www.chinavitae.com/)  
+* [Trade.gov api](https://api.trade.gov/)  
 
 
 ## Other
