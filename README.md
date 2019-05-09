@@ -132,6 +132,7 @@ This page contains links to interesting open data or lists of interesting open d
 * [UC Berkeley AMP Lab](https://amplab.cs.berkeley.edu/)
 
 ## Knowledge Graph
+* [wikidata](https://www.wikidata.org)
 * [dbpedia](http://wiki.dbpedia.org/)
 
 # Privacy
