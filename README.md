@@ -112,7 +112,8 @@ This page contains links to interesting open data or lists of interesting open d
 * [open.canada.ca](http://open.canada.ca/en)  
 * [Homeland Infrastructure Foundation Data](https://hifld-dhs-gii.opendata.arcgis.com/)  
 * [China Vitae](http://www.chinavitae.com/)  
-* [Trade.gov api](https://api.trade.gov/)  
+* [Trade.gov api](https://api.trade.gov/)
+* [Sensor Data Management System](https://www.sdms.afrl.af.mil/index.php)
 
 
 ## Other
